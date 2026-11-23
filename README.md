@@ -1,9 +1,12 @@
 # 📚 Student E-Library Portal
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-student--e--library.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://student-e-library.vercel.app/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Institution](https://img.shields.io/badge/BMSCE-Bengaluru-blue?style=for-the-badge)](https://www.bmsce.ac.in/)
+
+> 🚀 **Live Demo**: Experience the live working portal at **[https://student-e-library.vercel.app/](https://student-e-library.vercel.app/)**
 
 An online academic digital library and student resource repository built for students and faculty of **B.M.S. College of Engineering (BMSCE)**. This portal provides seamless access to digitized textbooks, lecture presentations, unit-wise notes, and reference materials across various engineering disciplines and semesters.
 
@@ -77,10 +80,16 @@ Student_E-Library/
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🌐 Live Portal
+You can directly access and use the live application without needing to clone or run it locally:  
+👉 **[https://student-e-library.vercel.app/](https://student-e-library.vercel.app/)**
+
+### 💻 Running Locally
+
+#### Prerequisites
 No special runtime or build tools are required! All you need is a modern web browser (Chrome, Edge, Firefox, or Safari).
 
-### Running Locally
+### Running Locally Setup
 1. **Clone the repository**
 
 2. **Open the application**:
